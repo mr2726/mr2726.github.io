@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3d5e3d5c.css",
+    "main.js": "/static/js/main.e6c0ec6e.js",
+    "static/js/453.1aa0f192.chunk.js": "/static/js/453.1aa0f192.chunk.js",
+    "static/media/Friends.svg": "/static/media/Friends.3eeee11eb338a41aee99.svg",
+    "static/media/Tasks.svg": "/static/media/Tasks.6bfe0c496c9c2ffe64a9.svg",
+    "static/media/coin.svg": "/static/media/coin.56596568dfe09245c0cc.svg",
+    "static/media/Workers.svg": "/static/media/Workers.a1d2e72a6eae1ae8f8ac.svg",
+    "index.html": "/index.html",
+    "static/media/Factory.svg": "/static/media/Factory.c6f102355a9d2639f40f.svg",
+    "static/media/btn.svg": "/static/media/btn.330fc5b316f7e388eb3a.svg",
+    "main.3d5e3d5c.css.map": "/static/css/main.3d5e3d5c.css.map",
+    "main.e6c0ec6e.js.map": "/static/js/main.e6c0ec6e.js.map",
+    "453.1aa0f192.chunk.js.map": "/static/js/453.1aa0f192.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d5e3d5c.css",
+    "static/js/main.e6c0ec6e.js"
+  ]
+}
